@@ -1,2 +1,2 @@
-# Real-Estate-Price-Prediction
-A model that predicts prices of houses and apartments 
+# Real-Estate-Valuation
+A spreadsheet that valuates houses and apartments 
